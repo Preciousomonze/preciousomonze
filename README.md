@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Howdy folks! 👋
+### I'm Precious Omonze the CodeXplorer 🤾🏽‍♂️🥞🦜🤡
 <!--
 **Preciousomonze/preciousomonze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
