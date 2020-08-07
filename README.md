@@ -1,8 +1,8 @@
 ### Howdy folks! 👋
-### I'm Precious Omonze the CodeXplorer 🤾🏽‍♂️🥞🦜🤡
+### I'm Precious Omonzejele, the CodeXplorer 🤾🏽‍♂️🥞🦜🤡 (Original)
 
 ### Current Battle 🦸🏽‍♂️
-🔭 I’m currently working on my open source plugin for WordPress and WooCommerce 
+🔭 I’m currently working on my **[open source plugin for WordPress and WooCommerce](https://wordpress.org/plugins/woo-phone-validator)** 
 
 
 ### - 📫 How to reach me(For Contact)
