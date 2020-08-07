@@ -1,5 +1,5 @@
 ### Howdy folks! 👋
-### I'm Precious Omonzejele, the CodeXplorer 🤾🏽‍♂️🥞🦜🤡 (Original)
+### I'm Precious Omonzejele, the CodeXplorer 🤾🏽‍♂️🥞🦜🤡 (Original Master CD)
 
 ### Current Battle 🦸🏽‍♂️
 🔭 I’m currently working on my **[open source plugin for WordPress and WooCommerce](https://wordpress.org/plugins/woo-phone-validator)** 
