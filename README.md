@@ -4,8 +4,10 @@
 ### Current Battle 🦸🏽‍♂️
 🔭 I’m currently working on my **[open source plugin for WordPress and WooCommerce](https://wordpress.org/plugins/woo-phone-validator)** 
 
+### ⚡ Fun fact
+**🥞 are better than 🍕.**
 
-### - 📫 How to reach me(For Contact)
+### 📫 How to reach me(For Contact)
 Yup, my website is still not fully ready.
  - "Why won't you have a website being a Developer?"
 
