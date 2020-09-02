@@ -4,7 +4,8 @@
 ### Current Battle 🦸🏽‍♂️
 
 #### WordPress
-🔭 I’m currently working on my **[open source plugin for WordPress and WooCommerce](https://wordpress.org/plugins/woo-phone-validator)** 
+🔭 I’m currently working on my **[open source plugin for WordPress and WooCommerce](https://wordpress.org/plugins/woo-phone-validator)**
+
 🔭 Participating as a co-organizer in **Do_action Charity Hackathon(chakathon 🌝) 2020**, WordPress Nigeria.
 
 
