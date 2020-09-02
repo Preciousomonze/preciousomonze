@@ -2,12 +2,17 @@
 ### I'm Precious Omonzejele, the CodeXplorer 🤾🏽‍♂️🥞🦜🤡 (Original Master CD)
 
 ### Current Battle 🦸🏽‍♂️
+
+#### WordPress
 🔭 I’m currently working on my **[open source plugin for WordPress and WooCommerce](https://wordpress.org/plugins/woo-phone-validator)** 
+🔭 Participating as a co-organizer in **Do_action Charity Hackathon(chakathon 🌝) 2020**, WordPress Nigeria.
+
 
 #### Side Battle 🤺
  I really need to sync my work folder to google drive, but i can't sync **node_modules**, we all know why 🤧.
  I hope its a solution that's already out there, if not, building one will be nice.
- 
+
+### Selectively Available for Hire
 
 ### ⚡ Fun fact
 **🥞 are better than 🍕.**
