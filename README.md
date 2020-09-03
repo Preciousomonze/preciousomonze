@@ -13,7 +13,7 @@
  I really need to sync my work folder to google drive, but i can't sync **node_modules**, we all know why 🤧.
  I hope its a solution that's already out there, if not, building one will be nice.
 
-### Selectively Available for Hire
+### Selectively Available for Hire 💅🏽😎
 
 ### ⚡ Fun fact
 **🥞 are better than 🍕.**
