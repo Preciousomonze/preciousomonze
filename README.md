@@ -13,6 +13,7 @@
 
  - **Operation Stealth Synchronization 🐍**
 
+- **Operation No Trespassing ☠️**: Force Coupon Validation, before submit.
 
 
 ## Side Battle 🤺
