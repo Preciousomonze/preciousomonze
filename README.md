@@ -6,6 +6,8 @@
 ### WordPress
  - 🔭 I’m currently working on my **[open source plugin for WordPress and WooCommerce](https://wordpress.org/plugins/woo-phone-validator)**
 
+ - WP Css-Core: Operation Auditing 🕵🏼‍♂️
+
 ### WooCommerce
  - **Operation Unity for Hooks ⛓**
 
