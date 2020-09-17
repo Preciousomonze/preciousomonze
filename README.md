@@ -4,12 +4,13 @@
 ## Current Battle 🦸🏽‍♂️
 
 ### WordPress
-🔭 I’m currently working on my **[open source plugin for WordPress and WooCommerce](https://wordpress.org/plugins/woo-phone-validator)**
+ - 🔭 I’m currently working on my **[open source plugin for WordPress and WooCommerce](https://wordpress.org/plugins/woo-phone-validator)**
 
 #### WooCommerce
-**Operation Unity for Hooks ⛓**
+ - **Operation Unity for Hooks ⛓**
 
-**Operation Let my Coupons go 🐗**
+ - **Operation Let my Coupons go 🐗**
+
 
 
 ## Side Battle 🤺
