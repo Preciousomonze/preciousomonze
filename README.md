@@ -17,7 +17,7 @@
 
 ## Side Battle 🤺
 ### WooCommerce
- - **Special Ops - CartGenda must Agend 🐳**
+ - **Special Ops - Operation CartGenda must Agend 🐳**
 
 ### Google Drive Sync
  I really need to sync my work folder to google drive, but i can't sync **node_modules**, we all know why 🤧.
