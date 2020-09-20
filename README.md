@@ -22,7 +22,7 @@
 ## Side Battle 🤺
 ### WooCommerce
  - **Special Ops - Operation CartGenda must Agend 🐳**
- - **Hostile Ops - Into the JS rabbit hole 🐰
+ - **Hostile Ops - Into the JS rabbit hole 🐰**
 
 
 ### Google Drive Sync
