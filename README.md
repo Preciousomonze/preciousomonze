@@ -1,6 +1,7 @@
 ### Howdy folks! 👋
 ### I'm Precious Omonzejele, the CodeXplorer 🤾🏽‍♂️🥞🦜🤡 (Original Master CD)
 
+
 ## Current Battle 🦸🏽‍♂️
 
 ### WordPress
@@ -21,6 +22,8 @@
 ## Side Battle 🤺
 ### WooCommerce
  - **Special Ops - Operation CartGenda must Agend 🐳**
+ - **Hostile Ops - Into the JS rabbit hole 🐰
+
 
 ### Google Drive Sync
  I really need to sync my work folder to google drive, but i can't sync **node_modules**, we all know why 🤧.
