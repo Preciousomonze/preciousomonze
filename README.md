@@ -51,7 +51,7 @@ Yup, my website is still not fully ready.
     First of all, I am a **CodeXplorer(just a fancy Programmer name to be different 🌝, I can write codes well too)**, There's a saying that _"Not all Mechanics(automobile engineers) own a car"_, I don't know if that's valid in your country, but in my country, it's very true 💯.
 
 
-#### You can hit me up on twitter [@Preciousomonze](https://twitter.com/preciousomonze).
+#### You can hit me up via email [me at codexplorer . ninja](mailto:me@codexplorer.ninja).
 
 <!--
 **Preciousomonze/preciousomonze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
