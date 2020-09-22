@@ -10,6 +10,8 @@
  - WP Css-Core: Operation Auditing 🕵🏼‍♂️
 
 ### WooCommerce
+ - **WooCommerce Community Support: SSGT. Woo Combat Medic 🚒**
+ 
  - **Operation Unity for Hooks ⛓**
 
  - **Operation Let my Coupons Go 🐗**
