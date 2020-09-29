@@ -1,6 +1,9 @@
 ### Howdy folks!  🇫🇷salut les gens!  🇪🇸Hola gente!  🇳🇬Kaabo eniyan!  🇩🇪Hallo zusammen!  🇮🇹Ciao a tutti!  🇳🇱Hallo allemaal!  🇯🇵Minasan, kon'nichiwa!  🇰🇪Halo kila mtu! 👋
-### I'm Precious Omonzejele, the CodeXplorer 🤾🏽‍♂️🥞🦜🤡 (Original Master CD)
 
+### I'm Precious Omonzejele, the CodeXplorer 🤾🏽‍♂️🥞🦜🤡
+I like to use some languages to solve problems, that's why I love programming and codexploring a lot.
+
+This is all I can say about me here, you'll know the rest if you want to 🦜.
 
 ## Current Battle 🦸🏽‍♂️
 
