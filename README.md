@@ -18,7 +18,9 @@
 
  - **Operation Stealth Synchronization 🐍**
 
-- **Operation No Trespassing ☠️**: Force Coupon Validation, before submit.
+ - **Operation No Trespassing ☠️**: Force Coupon Validation, before submit.
+
+ - **OP Into the Deep Loop 🤿**
 
 
 ## Side Battle 🤺
