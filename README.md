@@ -7,6 +7,9 @@ This is all I can say about me here, you'll know the rest if you want to 🦜.
 
 ## Current Battle 🦸🏽‍♂️
 
+### 100DaysOfCode Challenge
+You can follow my story for this challenge [here](https://twitter.com/preciousomonze/status/1309161055692750858), I Give updates from time to time.
+
 ### WordPress
  - 🔭 I’m currently working on my **[open source plugin for WordPress and WooCommerce](https://wordpress.org/plugins/woo-phone-validator)**
 
