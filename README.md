@@ -17,23 +17,16 @@ You can follow my story for this challenge [here](https://twitter.com/preciousom
 
 ### WooCommerce
  - **WooCommerce Community Support: SSGT. Woo Combat Medic 🚒**
- 
- - **Operation Unity for Hooks ⛓**
 
  - **Operation Let my Coupons Go 🐗**
 
- - **Operation Stealth Synchronization 🐍**
-
- - **Operation No Trespassing ☠️**: Force Coupon Validation, before submit.
-
  - **OP Into the Deep Loop 🤿**
 
+ - **OP Slip the class into the Base**
 
 ## Side Battle 🤺
-### WooCommerce
- - **Special Ops - Operation CartGenda must Agend 🐳**
- - **Hostile Ops - Into the JS rabbit hole 🐰**
- - **OP unzip the zipper** ✅
+### React Native(IOS)
+ - **Operation War Pig 🐽**: Using Major force and resources into this Battle, Fight to the end! 🤺
 
 ### Google Drive Sync
  I really need to sync my work folder to google drive, but i can't sync **node_modules**, we all know why 🤧.
@@ -45,7 +38,15 @@ You can follow my story for this challenge [here](https://twitter.com/preciousom
 🔭 Participating as a co-organizer in **Do_action Charity Hackathon(chakathon 🌝) 2020**, WordPress Nigeria.
 
 ### WooCommerce
-**Operation Coupon Winger 🧧**: Pushing up a proper variation product compatibility fix for Free Gifts Coupon.
+ - **Operation Coupon Winger 🧧**: Pushing up a proper variation product compatibility fix for Free Gifts Coupon.
+ - **Special Ops - Operation CartGenda must Agend 🐳**
+ - **Hostile Ops - Into the JS rabbit hole 🐰**
+ - **OP unzip the zipper** ✅
+ - **Operation Stealth Synchronization 🐍**
+ 
+ - **Operation Unity for Hooks ⛓**
+
+ - **Operation No Trespassing ☠️**: Force Coupon Validation, before submit.
 
 
 
