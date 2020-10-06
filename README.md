@@ -25,6 +25,9 @@ You can follow my story for this challenge [here](https://twitter.com/preciousom
  - **OP Slip the class into the Base**
 
 ## Side Battle 🤺
+### WooCommerce
+ - **Special Ops "Letter to Product Bundles 📝"**
+
 ### React Native(IOS)
  - **Operation War Pig 🐽**: Using Major force and resources into this Battle, Fight to the end! 🤺
 
