@@ -5,6 +5,11 @@ I like to use some languages to solve problems, that's why I love programming an
 
 This is all I can say about me here, you'll know the rest if you want to 🦜.
 
+### Live Projects I'm engaging 
+ - [WooCommerce Name Your Price](https://woocommerce.com/products/name-your-price/) 📝💸
+ - [WooCommerce Free Gift Coupon](https://woocommerce.com/products/free-gift-coupons/) 🧧
+ - [WooCommerce Mix and Match](https://woocommerce.com/products/woocommerce-mix-and-match-products/) 🧳
+
 ## Current Battle 🦸🏽‍♂️
 
 ### 100DaysOfCode Challenge
