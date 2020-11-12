@@ -23,11 +23,6 @@ You can follow my story for this challenge [here](https://twitter.com/preciousom
 ### WooCommerce
  - **WooCommerce Community Support: SSGT. Woo Combat Medic 🚒**
 
- - **Operation Let my Coupons Go 🐗**
-
- - **OP Into the Deep Loop 🤿**
-
- - **OP Slip the class into the Base**
 
 ## Side Battle 🤺
 ### WooCommerce
@@ -50,11 +45,17 @@ You can follow my story for this challenge [here](https://twitter.com/preciousom
  - **Special Ops - Operation CartGenda must Agend 🐳**
  - **Hostile Ops - Into the JS rabbit hole 🐰**
  - **OP unzip the zipper** ✅
- - **Operation Stealth Synchronization 🐍**
+ - **Operation Stealth Synchronization 🐍** ✅
  
- - **Operation Unity for Hooks ⛓**
+ - **Operation Unity for Hooks ⛓** ✅
 
  - **Operation No Trespassing ☠️**: Force Coupon Validation, before submit.
+
+- **Operation Let my Coupons Go 🐗** ✅
+
+ - **OP Into the Deep Loop 🤿** ✅
+
+ - **OP Slip the class into the Base** ✅
 
 
 
