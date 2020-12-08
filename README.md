@@ -10,6 +10,11 @@ This is all I can say about me here, you'll know the rest if you want to 🦜.
  - [WooCommerce Free Gift Coupon](https://woocommerce.com/products/free-gift-coupons/) 🧧
  - [WooCommerce Mix and Match](https://woocommerce.com/products/woocommerce-mix-and-match-products/) 🧳
 
+![Dan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=preciousomonze&theme=cobalt&show_icons=true&&line_height=40)
+![Dan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preciousomonze&theme=cobalt&show_icons=true)
+![Profile views](https://gpvc.arturio.dev/preciousomonze) 
+
+
 ## Current Battle 🦸🏽‍♂️
 
 ### 100DaysOfCode Challenge
