@@ -1,6 +1,6 @@
 ### Howdy folks!  🇫🇷salut les gens!  🇪🇸Hola gente!  🇳🇬Kaabo eniyan!  🇩🇪Hallo zusammen!  🇮🇹Ciao a tutti!  🇳🇱Hallo allemaal!  🇯🇵Minasan, kon'nichiwa!  🇰🇪Halo kila mtu! 👋
 
-### I'm Precious Omonzejele, the CodeXplorer 🤾🏽‍♂️🥞🦜🤡
+### I'm Precious Omonzejele, the CodeXplorer 🤾🏽‍♂️🥞🦜🤡 (sho get or o get? o get, then forget!)
 I like to use some languages to solve problems, that's why I love programming and codexploring a lot.
 
 This is all I can say about me here, you'll know the rest if you want to 🦜.
@@ -16,9 +16,6 @@ This is all I can say about me here, you'll know the rest if you want to 🦜.
 
 
 ## Current Battle 🦸🏽‍♂️
-
-### 100DaysOfCode Challenge
-You can follow my story for this challenge [here](https://twitter.com/preciousomonze/status/1309161055692750858), I Give updates from time to time.
 
 ### WordPress
  - 🔭 I’m currently working on my **[open source plugin for WordPress and WooCommerce](https://wordpress.org/plugins/woo-phone-validator)**
@@ -41,6 +38,9 @@ You can follow my story for this challenge [here](https://twitter.com/preciousom
  I hope its a solution that's already out there, if not, building one will be nice.
 
 ## Completed Missions 🎖
+
+### 100DaysOfCode Challenge
+You can check my story for this challenge [here](https://twitter.com/preciousomonze/status/1309161055692750858).
 
 ### WordPress
 🔭 Participating as a co-organizer in **Do_action Charity Hackathon(chakathon 🌝) 2020**, WordPress Nigeria.
