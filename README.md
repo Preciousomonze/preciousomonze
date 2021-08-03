@@ -18,7 +18,7 @@ This is all I can say about me here, you'll know the rest if you want to 🦜.
 ## Current Battle 🦸🏽‍♂️
 
 ### WordPress
- - 🔭 I’m currently working on my **[open source plugin for WordPress and WooCommerce](https://wordpress.org/plugins/woo-phone-validator)**
+ - 🔭 I’m currently working on my **[open source plugin for WordPress and WooCommerce](https://wordpress.org/plugins/woo-phone-validator)** (_Paused for now, sapa wan wound me 😢_)
 
  - WP Css-Core: Operation Auditing 🕵🏼‍♂️
 
