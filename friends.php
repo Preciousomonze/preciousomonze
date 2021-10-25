@@ -2,10 +2,15 @@
   require ('~friend_vibes.php');
   require ('~outing_activities.php');
 
-  // Always plan.
-  plan_outing();
+  while (precious_going()) {
+    // Always plan!! spontaneous fit ride you under bridge. Proverbs 21:5.
+    plan_outing();
+    
+    if (joke_going() || sodiq_going() || others_going())) {
+      // Awwww! 😙
+    }
 
-  if (precious_going() && (joke_going() && sodiq_going() && others_going())) {
+    // Go and Conquer!!!
     do_outing();
   }
 ?>
